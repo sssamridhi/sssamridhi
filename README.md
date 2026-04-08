@@ -1,103 +1,167 @@
 <div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║    ██████╗  █████╗  ███╗   ███╗                           ║
-║    ██╔════╝ ██╔══██╗ ████╗ ████║                          ║
-║    ╚█████╗  ███████║ ██╔████╔██║                          ║
-║     ╚═══██╗ ██╔══██║ ██║╚██╔╝██║                          ║
-║    ██████╔╝ ██║  ██║ ██║ ╚═╝ ██║                          ║
-║    ╚═════╝  ╚═╝  ╚═╝ ╚═╝     ╚═╝                          ║
-║                                                           ║
-║         she/her  ·  building things that matter           ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer+in+the+making...;Reconstructing+faces+with+neural+nets+%F0%9F%A7%A0;Slaying+pixels+one+commit+at+a+time;Currently+debugging+something+cursed+%F0%9F%94%AE)](https://git.io/typing-svg)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Crimson+Pro&size=22&pause=1200&color=8B7355&center=true&vCenter=true&width=600&lines=hey%2C+i'm+samridhi+%F0%9F%8D%B5;i+build+things+that+didn't+exist+before.;pretty+girls+love+coding+%E2%9C%A8;i+can+fix+the+world+but+they+won't+give+me+the+source+code." alt="Typing SVG" />
 </div>
 
----
-
-## `> whoami`
-
-```python
-class Sam:
-    name        = "sssamridhi"
-    pronouns    = "she/her"
-    location    = "India 🇮🇳"
-    email       = "sssamridhi.04@gmail.com"
-    interests   = ["AI/ML", "Forensic Tech", "Creative Coding", "WebDev"]
-    currently   = "Building an AI-Powered Forensic Face Reconstruction System"
-    fun_fact    = "My avatar is pixel art, my code is not. Usually."
-```
-
----
-
-## `> ls projects/`
-
-<div align="center">
-
-| Project | Stack | Status |
-|---|---|---|
-| 🦴 [skull2face-backend](https://github.com/sssamridhi/skull2face-backend) | JavaScript · AI/ML | 🟢 Active |
-| 🎨 [skull2face-frontend](https://github.com/sssamridhi/skull2face-frontend) | CSS · Web | 🟢 Active |
-| 🐉 [elemental-dragons](https://github.com/sssamridhi/elemental-dragons) | HTML | 🟡 In Progress |
-
-</div>
-
-> **Flagship:** `skull2face` — an AI-powered forensic face reconstruction system that rebuilds facial features from skeletal structure. Think CSI, but real.
-
----
-
-## `> cat skills.json`
-
-```json
-{
-  "languages"  : ["JavaScript", "HTML", "CSS", "Python"],
-  "domains"    : ["AI / Machine Learning", "Computer Vision", "Web Development"],
-  "tools"      : ["Git", "GitHub", "VS Code"],
-  "learning"   : ["Deep Learning", "3D Reconstruction", "Neural Networks"],
-  "vibe"       : "building things that didn't exist before"
-}
-```
-
----
-
-## `> git log --oneline`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sssamridhi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sssamridhi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sssamridhi&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)
-
-</div>
-
----
-
-## `> ping sam`
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/sssamridhi.04%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=0d1117)](mailto:sssamridhi.04@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-sssamridhi-0d1117?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0d1117)](https://github.com/sssamridhi)
-
-</div>
-
----
+<br>
 
 <div align="center">
 
 ```
-[ system status: actively building · caffeine: optimal · bugs: being fixed ]
+✦ · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ✦
 ```
 
-*"The best way to predict the future is to build it."*
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sssamridhi&color=A78BFA&style=flat-square&label=profile+views)
+<br>
+
+<table align="center">
+<tr>
+<td width="55%" valign="top">
+
+### about me ˚ ༘ ♡
+
+i'm a cs student at banasthali vidyapith who builds AI systems by day and writes little stories by night. i think making things — code, art, words — is the closest thing to magic.
+
+currently obsessed with teaching machines to reconstruct human faces from bones. no big deal.
+
+<br>
+
+**i'm into →**
+- 🧠 deep learning & computer vision
+- 🎨 drawing, pixel art & creative coding
+- 📖 journaling & writing little things
+- 🌿 building stuff that actually matters
+
+<br>
+
+> *"code like a girl."*
+
+</td>
+<td width="45%" align="center" valign="top">
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="160" alt="black cat typing" />
+
+<br>
+
+```
+╭──────────────────────╮
+│  she / her  ·  india  │
+│  b.tech cse '27       │
+│  ai · cv · webdev     │
+╰──────────────────────╯
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+```
+✦ · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ✦
+```
+
+</div>
+
+<br>
+
+### things i've made 🌸
+
+<br>
+
+**🦴 forensic face reconstruction** &nbsp;·&nbsp; *Aug 2025 – present*
+
+reconstructing human faces from skull CT scans using diffusion models + CNNs. started with 51 samples, engineered augmentation to 19,000. ~80% accuracy and climbing. packaged as a desktop app forensic practitioners can actually use.
+
+`python` `tensorflow` `diffusion models` `opencv` `flask` `mongodb` `electron.js`
+
+<br>
+
+**👁️ biometric attendance system** &nbsp;·&nbsp; *Jan – May 2025*
+
+real-time face detection to automate attendance for 200+ students. because manual registers are a crime against time.
+
+`python` `tensorflow` `opencv` `flask` `mysql`
+
+<br>
+
+**🐉 elemental dragons** &nbsp;·&nbsp; [→ peek](https://github.com/sssamridhi/elemental-dragons)
+
+`html`
+
+<br>
+
+<div align="center">
+
+```
+✦ · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ✦
+```
+
+</div>
+
+<br>
+
+### lately ✨
+
+<div align="center">
+
+| thing | status |
+|---|---|
+| ML specialization · deeplearning.ai | ✅ done |
+| getting started with AI · IBM | ✅ done |
+| emotion-aware AI research · presented at banasthali | 📄 done |
+| codeveda hackathon | 🏅 qualified next round |
+| skull2face · expanding dataset to 85%+ | 🔨 building |
+
+</div>
+
+<br>
+
+<div align="center">
+
+```
+✦ · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ✦
+```
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sssamridhi&show_icons=true&hide_border=true&bg_color=faf6f1&title_color=8B7355&icon_color=c4956a&text_color=6b5b47&hide_title=true&rank_icon=github" height="130"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sssamridhi&layout=compact&hide_border=true&bg_color=faf6f1&title_color=8B7355&text_color=6b5b47" height="130"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+```
+✦ · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ✦
+```
+
+</div>
+
+<br>
+
+<div align="center">
+
+*find me →* &nbsp;
+[`sssamridhi.04@gmail.com`](mailto:sssamridhi.04@gmail.com) &nbsp;·&nbsp;
+[`linkedin`](https://linkedin.com/in/sssamridhi) &nbsp;·&nbsp;
+[`github`](https://github.com/sssamridhi)
+
+<br>
+
+<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="80" alt="cute cat" />
+
+<br>
+
+*this girl knows code.* ✨
 
 </div>
