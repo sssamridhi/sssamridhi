@@ -64,13 +64,15 @@ currently obsessed with trying to make games. no big deal.
 ```
 
 </div>
-
-
 <br>
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=sssamridhi&theme=soft-green&hide_border=true&background=faf6f1&ring=c4956a&fire=c4956a&currStreakLabel=8B7355&sideLabels=8B7355&dates=6b5b47&currStreakNum=6b5b47&sideNums=6b5b47" height="130"/>
+<img src="https://streak-stats.demolab.com?user=sssamridhi&theme=dark&hide_border=true&background=0d1117&ring=c4956a&fire=c4956a&currStreakLabel=c4956a&sideLabels=8B7355&dates=6b5b47&currStreakNum=e8d5b7&sideNums=e8d5b7" height="150"/>
 <br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sssamridhi&theme=github" width="80%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sssamridhi/sssamridhi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sssamridhi/sssamridhi/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/sssamridhi/sssamridhi/output/github-contribution-grid-snake-dark.svg" width="80%"/>
+</picture>
 </div>
 <br>
 <div align="center">
