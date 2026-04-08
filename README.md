@@ -65,18 +65,14 @@ currently obsessed with trying to make games. no big deal.
 
 </div>
 
-<br>
 
+<br>
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sssamridhi&show_icons=true&hide_border=true&bg_color=faf6f1&title_color=8B7355&icon_color=c4956a&text_color=6b5b47&hide_title=true&rank_icon=github" height="130"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sssamridhi&layout=compact&hide_border=true&bg_color=faf6f1&title_color=8B7355&text_color=6b5b47" height="130"/>
-
-</div>
-
+<img src="https://streak-stats.demolab.com?user=sssamridhi&theme=soft-green&hide_border=true&background=faf6f1&ring=c4956a&fire=c4956a&currStreakLabel=8B7355&sideLabels=8B7355&dates=6b5b47&currStreakNum=6b5b47&sideNums=6b5b47" height="130"/>
 <br>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sssamridhi&theme=github" width="80%"/>
+</div>
+<br>
 <div align="center">
 
 ```
