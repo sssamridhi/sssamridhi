@@ -67,36 +67,6 @@ currently obsessed with trying to make games. no big deal.
 
 <br>
 
-### things i've made 🌸
-
-<br>
-
-**🦴 forensic face reconstruction** &nbsp;·&nbsp; *Aug 2025 – April 2026*
-
-reconstructing human faces from skull CT scans using diffusion models + CNNs. started with 51 samples, engineered augmentation to 19,000. ~80% accuracy and climbing. packaged as a desktop app forensic practitioners can actually use.
-
-`python` `tensorflow` `diffusion models` `opencv` `flask` `mongodb` `electron.js`
-
-<br>
-
-<br>
-
-**🐉 elemental dragons** &nbsp;·&nbsp; [→ peek](https://github.com/sssamridhi/elemental-dragons)
-
-`html`
-
-<br>
-
-<div align="center">
-
-```
-✦ · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ✦
-```
-
-</div>
-
-<br>
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sssamridhi&show_icons=true&hide_border=true&bg_color=faf6f1&title_color=8B7355&icon_color=c4956a&text_color=6b5b47&hide_title=true&rank_icon=github" height="130"/>
