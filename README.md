@@ -90,6 +90,7 @@ currently obsessed with trying to make games. no big deal.
 *find me →* &nbsp;
 [`sssamridhi.04@gmail.com`](mailto:sssamridhi.04@gmail.com) &nbsp;·&nbsp;
 [`linkedin`](https://linkedin.com/in/sssamridhi) &nbsp;·&nbsp;
+[`instagram`](https://instagram.com/sssamridhi_) &nbsp;·&nbsp;
 [`github`](https://github.com/sssamridhi)
 
 <br>
