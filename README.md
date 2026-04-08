@@ -22,7 +22,7 @@
 
 i'm a cs student at banasthali vidyapith who builds AI systems by day and writes little stories by night. i think making things — code, art, words — is the closest thing to magic.
 
-currently obsessed with teaching machines to reconstruct human faces from bones. no big deal.
+currently obsessed with trying to make games. no big deal.
 
 <br>
 
@@ -71,7 +71,7 @@ currently obsessed with teaching machines to reconstruct human faces from bones.
 
 <br>
 
-**🦴 forensic face reconstruction** &nbsp;·&nbsp; *Aug 2025 – present*
+**🦴 forensic face reconstruction** &nbsp;·&nbsp; *Aug 2025 – April 2026*
 
 reconstructing human faces from skull CT scans using diffusion models + CNNs. started with 51 samples, engineered augmentation to 19,000. ~80% accuracy and climbing. packaged as a desktop app forensic practitioners can actually use.
 
@@ -79,43 +79,11 @@ reconstructing human faces from skull CT scans using diffusion models + CNNs. st
 
 <br>
 
-**👁️ biometric attendance system** &nbsp;·&nbsp; *Jan – May 2025*
-
-real-time face detection to automate attendance for 200+ students. because manual registers are a crime against time.
-
-`python` `tensorflow` `opencv` `flask` `mysql`
-
 <br>
 
 **🐉 elemental dragons** &nbsp;·&nbsp; [→ peek](https://github.com/sssamridhi/elemental-dragons)
 
 `html`
-
-<br>
-
-<div align="center">
-
-```
-✦ · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ✦
-```
-
-</div>
-
-<br>
-
-### lately ✨
-
-<div align="center">
-
-| thing | status |
-|---|---|
-| ML specialization · deeplearning.ai | ✅ done |
-| getting started with AI · IBM | ✅ done |
-| emotion-aware AI research · presented at banasthali | 📄 done |
-| codeveda hackathon | 🏅 qualified next round |
-| skull2face · expanding dataset to 85%+ | 🔨 building |
-
-</div>
 
 <br>
 
